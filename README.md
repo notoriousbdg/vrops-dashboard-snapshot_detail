@@ -1,4 +1,4 @@
-# Snapshot Detail Dashboard for vRealize Operations 7.0
+# Snapshot Detail Dashboard for vRealize Operations 6.7
 ---------
 
 View detailed info for all VM snapshots using [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
