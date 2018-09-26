@@ -7,7 +7,7 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 
 
 ## Installation
-1. Edit the Policy at `Administration` / `Policies` / `Policy Library`.  The policy should be `vSphere Soilution's Default Policy (DATE)` unless a new policy was explicitly created.  
+1. Edit the Policy at `Administration` / `Policies` / `Policy Library`.  The policy should be `vSphere Solution's Default Policy (DATE)` unless a new policy was explicitly created.  
 ![Policy Library](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/Policy_Library.png)
 2. Enable `Disk Space|Snapshot|Creator` and `Disk Space|Snapshot|Description` metrics for Virtual Machine objects  
 ![Policy Metrics](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/Policy_Metrics.png)
