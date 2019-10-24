@@ -1,4 +1,4 @@
-# Snapshot Detail Dashboard for vRealize Operations 6.7, 7.0, and 7.5
+# Snapshot Detail Dashboard for vRealize Operations 6.7, 7.0, 7.5, and 8.0
 ---------
 
 View detailed info for all VM snapshots using [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html).
@@ -23,6 +23,6 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 
 ## Support
 
-This dashboard requires vRealize Operation 6.7, 7.0, or 7.5 Advanced or Enterprise edition.
+This dashboard requires vRealize Operation 6.7, 7.0, 7.5, or 8.0 Advanced or Enterprise edition.
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues) for feedback.
