@@ -28,7 +28,7 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 ## Views
 | View Name | Name on Dashboard | View Type |
 |--|--|--|
-| Reclaim | Snapshot Detail | Snapshot Detail | List |
+| Snapshot Detail | Snapshot Detail | List |
 
 ## Support
 
