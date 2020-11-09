@@ -57,4 +57,4 @@ Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-snapshot_
 2020-11-09
 * Updated to support vRealize Operations 8.2
 * Addressed issues https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues/7 and https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues/8
-* The previous version for vRealize Operations 6.7, 7.0, 7.5, 8.0, and 8.1 is available [here](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/tree/vrops-8.1)
+* A version compatible with vRealize Operations 6.7, 7.0, 7.5, 8.0, and 8.1 is available [here](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/tree/vrops-8.1).
