@@ -34,7 +34,7 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 
 This dashboard requires vRealize Operation 8.2 Advanced or Enterprise edition or vRealize Operations Cloud.
 
-The older version, which is compatible with vRealize Operations 6.7, 7.0, 7.5, 8.0, and 8.1 is available [here](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/tree/vrops-8.1).
+A version compatible with vRealize Operations 6.7, 7.0, 7.5, 8.0, and 8.1 is available [here](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/tree/vrops-8.1).
 
 Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues) for feedback.
 
