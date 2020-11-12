@@ -12,7 +12,7 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 2. Enable `Disk Space|Snapshot|Creator` and `Disk Space|Snapshot|Description` metrics for Virtual Machine objects  
 ![Policy Metrics](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Policy_Metrics.png)
 3. Import the view at `Dashboards` / `Views` / `Import...`  
-![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Import_View.png)
+![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/View_Import.png)
 4. Click `Browse...` then select the file named [Views.zip](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/raw/master/Views.zip)
 4. Import the dashboard at `Dashboards` / `Manage Dashboards` / `...` / `Import Dashboards`  
 ![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Dashboard_Import.png)
