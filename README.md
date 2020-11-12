@@ -14,11 +14,10 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 3. Import the view at `Dashboards` / `Views` / `Import...`  
 ![Import View](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Import_View.png)
 4. Click `Browse...` then select the file named [Views.zip](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/raw/master/Views.zip)
-5. Import the dashboard at `Dashboards` / `Actions` / `Manage Dashboards` / `Import Dashboards`  
-![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Import_Dashboard.png)
-6. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/raw/master/Dashboards.zip)
-7. The dashboard should now be available in in the dashboard list  
-![Dashboard List](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Dashboard_List.png)
+4. Import the dashboard at `Dashboards` / `Manage Dashboards` / `...` / `Import Dashboards`  
+![Import Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-snapshot_detail/master/images/Dashboard_Import.png)
+5. Click `Browse...` then select the file named [Dashboards.zip](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/raw/master/Dashboards.zip)
+6. The included dashboards are listed in the [Dashboards section](#Dashboards)
 
 ## Dashboards
 | Dashboard Name | Dashboard Path |
@@ -28,7 +27,10 @@ View detailed info for all VM snapshots using [vRealize Operations](https://www.
 ## Views
 | View Name | Name on Dashboard | View Type |
 |--|--|--|
-| Snapshot Detail | Snapshot Detail | List |
+| Reclaim &#124; Snapshot Age Distribution | Snapshot Age | Distribution |
+| Reclaim &#124; Snapshot Size Distribution | Snapshot Size | Distribution |
+| Reclaim &#124; Snapshot Summary | Summary | List |
+| Reclaim &#124; Snapshot Detail | Snapshot Detail | List |
 
 ## Support
 
@@ -58,3 +60,6 @@ Please open an [issue](https://github.com/notoriousbdg/vrops-dashboard-snapshot_
 * Updated to support vRealize Operations 8.2
 * Addressed issues https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues/7 and https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/issues/8
 * A version compatible with vRealize Operations 6.7, 7.0, 7.5, 8.0, and 8.1 is available [here](https://github.com/notoriousbdg/vrops-dashboard-snapshot_detail/tree/vrops-8.1).
+
+2020-11-11
+* Added distribution charts and summary view
